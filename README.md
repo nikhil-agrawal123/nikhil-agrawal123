@@ -1,1 +1,1 @@
-![My GitHub Game](game.gif)
+![Shooter Game](game.gif)
